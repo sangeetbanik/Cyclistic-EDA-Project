@@ -141,8 +141,8 @@ The mean ride duration across the week is displayed as follow.
 - On the other hand, **casual riders cycled the longest on Sunday** with a mean trip duration of 23.50 minutes. 
 
 ### 5. Share
-![Cyclistic Bike Share Dashboard](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/96ac56b0-b8cf-4987-bb54-581b7ea08eec)
-View [Cyclistic Bike Share Dashboard](https://public.tableau.com/app/profile/hui.min.ho/viz/CyclisticBikeShareCaseStudy_16931448059910/Sheet1#2).
+![Cyclistic Bike Share Dashboard]()
+View [Cyclistic Bike Share Dashboard](https://public.tableau.com/app/profile/sangeet.banik/viz/CyclisticProject_17298545186540/Dashboard1).
 
 The similiarities and differences between Cyclistic members and casual riders were drawn from the dashboard above.
 
@@ -153,31 +153,37 @@ The similiarities and differences between Cyclistic members and casual riders we
 
 **Differences:**
 - **Cyclistic members** go on **more rides** than casual riders.
-- **Cyclistic members** have **smaller average ride length** (12.41 minutes) than casual riders (23.82 minutes). Hence, this may suggest that the Cyclistic members take the bicycles for **short trips or short distance travel**. 
+- **Cyclistic members** have **smaller average ride length** (12.01 minutes) than casual riders (19.72 minutes). Hence, this may suggest that the Cyclistic members take the bicycles for **short trips or short distance travel**. 
 - **Cyclistic members** show **consistent rides** throughout the week while casual riders have the busiest activites on weekends and lowest activities during weekdays. This may indicate that the Cyclistic members use the bicycles for ***purpose-oriented rides** such as work or errands while the casual riders use bicycles for leisure or recreational activities.  
 
 ### 6. Act
 #### <ins>Recommendations</ins>
 From the analysis above, we can design marketing strategies to convert casual riders to Cyclistic members. Here are my suggested approach:
 
+- **Free Trial Periods** <br>
+Offer casual riders a limited-time free trial of the annual membership benefits. This lets them experience the advantages, such as unlimited rides or discounted pricing, and could motivate them to convert to paying members after the trial.
+
+- **Personalized Promotions** <br>
+Send targeted offers and discounts to casual riders based on their riding behavior. For instance, after completing a certain number of rides, they could receive a discount toward an annual membership, making the transition appealing.
+
+- **Loyalty Program** <br>
+Establish a loyalty rewards program where members earn points for every ride. Points can be redeemed for rewards such as discounts on future memberships, motivating frequent usage and enhancing customer retention.
+
 - **Membership Personalisation** <br>
-Provide a range of membership personalizations: yearly, monthly and daily. For example, $365/year, $45/month, $3/day. Users will be able to choose their membership type according to their own preferences. By introducing shorter-term membership plans with appropriate pricing, we can cater the needs of riders who might not need an annual membership.
+Provide various membership tiers such as annual, monthly, and daily plans. For instance, pricing could be set at $365 per year, $45 per month, and $3 per day. This flexibility allows users to select a plan that best suits their needs. Offering shorter-term memberships with tailored pricing can attract riders who may not require a full-year commitment.
 
 - **Group Membership Discounts** <br>
-Offerdiscounted plans for friends, students, and families can encourage collective memberships. Furthermore, it encourages users to cycle together and strengthen the bonds between people.
+Offer discounted plans for friends, students, and families can encourage collective memberships. Furthermore, it encourages users to cycle together and strengthen the bonds between people.
 
-- **Membership Loyalty Points System** <br>
-Implement a membership loyalty points system for users to collect points for each ride. Rewards such as membership discount will be given based on the number of points collected. This will encourage riders to use the service more frequently, driving engagement and loyalty. 
+- **Exclusive Member Events** <br>
+Host special events exclusively for members, such as group cycling tours, urban adventure challenges, or themed rides. This provides members with unique experiences, while also encouraging casual riders to upgrade to membership status.
 
-- **Member-Exclusive Events** <br>
-Organize member-exclusive events such as group rides, urban exploration challenges, or themed cycling events. This approach not only encourages more rides from current members but also entices casual riders to join as members to participate in these unique experiences. 
+- **Seasonal promotions** <br>
+Run seasonal campaigns offering limited-time deals, weekday specials, or extended ride durations for members. These campaigns can help sustain membership growth and optimize service use during different times of the year.
 
-- **Seasonal campaigns** <br>
-Launch seasonal campaigns by offering limited-time discounts, special weekdays offers, or extended ride durations for members during these seasons to help in making the service more sustainable and manageable.
-
-- **Social Media Engagement** <br>
-Utilize digital media, including social media platforms, to engage with both casual riders and potential members. Share success stories, testimonials, and user-generated content from Cyclistic members who have benefited from the membership. Create visually appealing content showcasing the joy of cycling during different seasons and scenarios, enticing casual riders to become members. 
+- **Social Media interactions** <br>
+Leverage social media platforms to engage with both casual riders and potential members. Share member success stories, testimonials, and user-generated content. Visually appealing posts highlighting the joy of cycling in various seasons can encourage casual riders to convert to members.
 
 
 ## 🔮 Conclusion
-In short, this analysis provides valuable insights into the preferences and behaviors of Cyclistic members and casual riders. By tailoring strategies to the identified differences and preferences, Cyclistic can effectively convert casual riders into portential members.
+In short, this analysis provides valuable insights into the preferences and behaviors of Cyclistic members and casual riders. By tailoring strategies to the identified differences and preferences, Cyclistic can effectively convert casual riders into portential cyclistic members.
