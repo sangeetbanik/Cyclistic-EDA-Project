@@ -14,7 +14,7 @@ I'm Sangeet Banik, a National Institute of Technological(NIT), Rourkela graduate
 - Passionate about **continuous learning** 💫 and **self-development** 🌱
 
 ## 📊 GitHub Stats 
-| ![sangeetbanik.github.io's Stats](https://github-readme-stats.vercel.app/api?username=sangeetbanik.github.io&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![sangeetbanik.github.io's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangeetbanik.github.io&theme=dark&hide_border=true)|
+| ![sangeetbanik.github.io's Stats](https://github-readme-stats.vercel.app/api?username=sangeetbanik&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![sangeetbanik.github.io's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangeetbanik&theme=dark&hide_border=true)|
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 
 ## 👥 Connect With Me 
