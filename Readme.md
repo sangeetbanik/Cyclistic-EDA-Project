@@ -14,7 +14,7 @@ I'm Sangeet Banik, a National Institute of Technological(NIT), Rourkela graduate
 - Passionate about **continuous learning** 💫 and **self-development** 🌱
 
 ## 📊 GitHub Stats 
-| ![minbean's Stats](https://github-readme-stats.vercel.app/api?username=minbean&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![minbean's Streak](https://github-readme-streak-stats.herokuapp.com/?user=minbean&theme=dark&hide_border=true)|
+| ![sangeetbanik.github.io's Stats](https://github-readme-stats.vercel.app/api?username=sangeetbanik.github.io&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![sangeetbanik.github.io's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangeetbanik.github.io&theme=dark&hide_border=true)|
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 
 ## 👥 Connect With Me 
@@ -25,7 +25,6 @@ I'm Sangeet Banik, a National Institute of Technological(NIT), Rourkela graduate
   <a href="https://linkedin.com/in/sangeet-banik-30906b212">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=minbean&style=flat-square&color=blue" alt=""/>
     
 
 
