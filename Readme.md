@@ -39,7 +39,8 @@ I'm Sangeet Banik, a National Institute of Technological(NIT), Rourkela graduate
 
 ##### Database
 <div>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="BigQuery" alt="BigQuery"/>&nbsp;
+  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" title="BigQuery" alt="BigQuery"/>&nbsp;
+  
 </div>
 
 ##### Tools
@@ -50,6 +51,5 @@ I'm Sangeet Banik, a National Institute of Technological(NIT), Rourkela graduate
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" title="Word" alt="Word"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter" alt="Jupyter"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub alt="GitHub"/>&nbsp;
-  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" title="BigQuery" alt="BigQuery"/>&nbsp;
   
 </div>
