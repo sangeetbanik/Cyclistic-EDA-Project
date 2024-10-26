@@ -28,21 +28,21 @@ As a junior data analyst, my focus is on answering the first question: <b>How do
 [Note that the data has been made available by Motivate International Inc. under this [<ins>license</ins>](https://www.divvybikes.com/data-license-agreement).]
 
 **Tools:** <br>
-- Data cleaning & processing - Excel & SQL on Google Big Query 
+- Data cleaning & processing - Excel & Python.  
 - Data visualization - [Tableau](https://public.tableau.com/app/profile/sangeet.banik/viz/CyclisticProject_17298545186540/Dashboard1)
 
 ### 3. Process
-The basis for this analysis is **2022** data and the steps for processing the data are as follow:
-1) [Data Combining](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/blob/main/01_Data_Combining.sql)
-2) [Data Exploration](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/blob/main/02_Data_Exploration.sql)
-3) [Data Cleaning](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/blob/main/03_Data_Cleaning.sql)
-4) [Data Analysis](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/blob/main/04_Data_Analysis)
+The basis for this analysis is **2023** data and the steps for processing the data are as follow:
+1) [Data Combining]()
+2) [Data Exploration]()
+3) [Data Cleaning]()
+4) [Data Analysis]()
 
 #### Data Combining
-The 12 tables from **January 2022 to December 2022** were stacked and combined into a single table. The table consists of 5,667,717 rows.
+The 12 tables from **January 2023 to December 2023** were stacked and combined into a single table. The table consists of 5,719,877 rows.
 
 #### Data Exploration
-I ran the queries for each column from left to right in order to determine the **data type** and to uncover any **missing values, outliers, inconsistencies, and errors** within the dataset. 
+My initial step was to check the individual tables one by one using Excel to determine the **data type** and to  uncover any **missing values, outliers, inconsistencies, and errors** within the tables. 
 
 The data set consists of **13 variables**, as shown in the following: <br>
 
@@ -69,10 +69,12 @@ and the **data type** of each variable is depicted below:
 #### Data Cleaning
 Before analyzing the data, the dataset was cleaned by:
 - Removing the trips with **null values**.
+- Removing 9 columns: '**ride_id**', '**start_station_name**', '**end_station_name**', '**start_station_id**', '**end_station_id**', '**start_lat**', '**start_lng**', '**end_lat**', and '**end_lng**'.
 - Adding 3 columns: '**ride_length_in_mins**', '**day_of_week**' and '**month**'.
-- Exclusing the **rides with duration less than a minute** or **longer than a day**.
+In a later satge of analyzing the data, due to inconsistency, we:
+- Excluded the **rides with duration less than a minute** or **longer than a day**.
 
-In total, 4,224,062 rows were returned, which means **1,443,655 rows were removed**.
+In total, 5,702,878 rows were returned, which means 16,999 rows were removed
 
 ### 4. Analyze
 #### Data Analysis
@@ -81,18 +83,18 @@ The analysis question is:
 
 The cleaned data is imported into Tableau for analysis and the figures plotted are displayed in the following.
 
-### - Total Rides in 2022
-The figure below shows the **total number of rides** carried out by Cyclistic members and casual riders in **2022**. 
+### - Total Rides in 2023
+The figure below shows the **total number of rides** carried out by Cyclistic members and casual riders in **2023**. 
 
-![Membership Types](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/60b8125d-0fe0-42b6-b3c2-51474f2c4e9e)
-- **Cyclistic members** recorded a **greater bicycle activity** than casual riders. The total rides for Cyclistic members are 2,511,003 while 1,713,059 trips for casual riders. 
-- **Cyclistic members** accounted for about **59.4%** of total rides whereas casual riders made up **40.6%** of total rides in 2022. 
+![Membership Types]()
+- **Cyclistic members** recorded a **greater bicycle activity** than casual riders. The total rides for Cyclistic members are 3,655,271 while 2,047,607 trips for casual riders. 
+- **Cyclistic members** accounted for about **64.09%** of total rides whereas casual riders made up **35.91%** of total rides in 2023. 
 <br>
 
 ### - Types of Bikes
 The types of bicycles used for the trips are displayed as follow:
 
-![Types of Bikes](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/0453ca34-e5c5-4f97-ab23-addf7bb1ec44)
+![Types of Bikes]()
 - There are **three types of bicycles**: <ins>*classic, electric and docked bikes*</ins>.
 - Cyclistic members and casual riders prefer show a higher preference for **classic bicycles over electric bicycles**.
 - Casual riders have also used the docked bicycles. 
@@ -101,17 +103,17 @@ The types of bicycles used for the trips are displayed as follow:
 ### - Average Ride Duration
 The average ride length is plotted against the type of users (member vs. casual):
 
-![Avg Ride Length (Year)](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/addd404c-a172-4df4-9e4e-6493fcfa3967)
-- **Cyclistic members** can ride on the bicycles for about **12.41 minutes** on average whereas **casual riders** have an average ride length of **23.82 minutes**. Hence, the ride duration of Cyclistic members are approximately two times smalelr than casual riders.
+![Avg Ride Length (Year)]()
+- **Cyclistic members** can ride on the bicycles for about **11.936 minutes** on average whereas **casual riders** have an average ride length of **20.079 minutes**. Hence, the ride duration of Cyclistic members are approximately two times smaller than casual riders.
 <br>
 
 ### - Trips Taken in a Month
-The preference of cycling activity can be determined by drawing the graph of trips taken against month from January to December 2022. 
+The preference of cycling activity can be determined by drawing the graph of trips taken against month from January to December 2023. 
 
-![Total Rides (Month)](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/adbc1b9a-89ee-4ac1-8d51-12423141e177)
-- Both Cyclistic members and casual riders have the **lowest activity**, 65,051 rides and 12,355 rides respectively in **January 2022**.
-- **Cyclistic members** have the **highest activity** (323,073 rides) in **August 2022**.
-- **Casual riders** have the **greatest activity** (303,273 rides) in **July 2022**.
+![Total Rides (Month)]()
+- The **lowest activity** observed for Cyclistic members was 147,279 rides in **February 2023** and for casual riders was 39,867 rides in **January 2023**.
+- **Cyclistic members** have the **highest activity** (459,640 rides) in **August 2023**.
+- **Casual riders** have the **highest activity** (329,363 rides) in **July 2023**.
 <br>
 
 ### - Average Ride Length in a Month
