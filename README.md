@@ -20,14 +20,16 @@ The marketing director believes the company's success will depend on increasing 
 > 2. Why would casual riders buy Cyclistic annual memberships?
 > 3. How can Cyclistic use digital media to influence casual riders to become members?
 
+As a junior data analyst, my focus is on answering the first question: <b>How do annual members and casual riders use Cyclistic bikes differently?</b>
+
 ### 2. Prepare
 #### 🔗 Quick Links
 **Data Source:** [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) <br>
 [Note that the data has been made available by Motivate International Inc. under this [<ins>license</ins>](https://www.divvybikes.com/data-license-agreement).]
 
 **Tools:** <br>
-- Data cleaning & processing - SQL on Google Big Query 
-- Data visualization - [Tableau](https://public.tableau.com/app/profile/hui.min.ho/viz/CyclisticBikeShareCaseStudy_16931448059910/Sheet1#2)
+- Data cleaning & processing - Excel & SQL on Google Big Query 
+- Data visualization - [Tableau](https://public.tableau.com/app/profile/sangeet.banik/viz/CyclisticProject_17298545186540/Dashboard1)
 
 ### 3. Process
 The basis for this analysis is **2022** data and the steps for processing the data are as follow:
