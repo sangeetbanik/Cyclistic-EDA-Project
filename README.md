@@ -1,7 +1,7 @@
-# Cyclistic Bike Share Case Study
+# Cyclistic Bike Share Project
 
 ## 📝 Introduction 
-The **Cyclistic Bike Share Case Study** is a capstone project for the **Google Data Analytics Professional Certificate** on Coursera. In this project, I will follow the data analysis process which I learned from the course: <ins>ask, prepare, process, analyze, share and act</ins> to analyze the data. 
+The **Cyclistic** is a fictional company that launched a bike-sharing program. In this project, as a junior data analyst, working on the marketing analyst team at Cyclistic, I will follow the data analysis process like: <ins>ask, prepare, process, analyze, share and act</ins> to analyze the data. 
 
 ## 💬 Background
 Cyclistic is a bike-share company based in Chicago that launched its bike-sharing initiative in 2016. Since then, it has grown to include 5,824 bicycles and 692 geotracked stations distributed throughout the city. The system allows customers to rent bikes at one station and return them at any other, making it a convenient transportation option. This ease of use has helped Cyclistic's bike-sharing service become popular.
