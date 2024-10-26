@@ -119,26 +119,26 @@ The preference of cycling activity can be determined by drawing the graph of tri
 ### - Average Ride Length in a Month
 The mean trip duration is depicted in the line graph below. 
 
-![Avg  Ride Length (Month)](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/3c37d88a-5b98-4c32-989d-739ea45d4d8a)
-- The monthly average ride duration for **Cyclistic members** is the **highest** in **June** (13.65 minutes).
-- For **casual riders**, the **highest** mean trip duration is in **May** (27.75 minutes).
+![Avg  Ride Length (Month)]()
+- The monthly average ride duration for **Cyclistic members** is the **highest** in **July** (13.08 minutes).
+- For **casual riders**, the **highest** mean trip duration is in **July** (22.31 minutes).
 <br>
 
 ### - Trips Taken in a Week
 The bar chart below is used to study the daily user activity over a week.
 
-![Total Rides (Week)](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/02fd5b26-7fbb-4a5a-b231-0dfad3cebe5f)
-- Generally, bike rides are **most frequented** on **Saturdays**. 
-- **Cyclistic members** have the **highest activity** (399,863 rides) on **Thursdays** while the **lowest activity** (286,128 rides) on **Mondays**.
-- **Casual riders** have the **greatest activity** (357,781rides) on **Saturdays** while the **least activity** (191,467 rides) on **Tuesdays**.
+![Total Rides (Week)]()
+- Generally, bike rides are **most frequented** on **Saturdays**, with a total trips of 883,566 trips. 
+- **Cyclistic members** have the **highest activity** (588,795 rides) on **Thursdays** while the **lowest activity** (408,277 rides) on **Sundays**.
+- **Casual riders** have the **greatest activity** (407,880 rides) on **Saturdays** while the **least activity** (233,678 rides) on **Mondays**.
 <br>
 
 ### - Average Ride Length in a Week
 The mean ride duration across the week is displayed as follow.
 
-![Avg  Ride Length (Week)](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/644408cb-ca1f-4f5e-8792-b931e3400d51)
-- **Cyclistic members** cycled the **longest on Saturday** with an average ride length of 14.01 minutes.
-- On the other hand, **casual riders cycled the longest on Sunday** with a mean trip duration of 27.18 minutes. 
+![Avg  Ride Length (Week)]()
+- **Cyclistic members** cycled the **longest on Sunday** with an average ride length of 13.31 minutes.
+- On the other hand, **casual riders cycled the longest on Sunday** with a mean trip duration of 23.50 minutes. 
 
 ### 5. Share
 ![Cyclistic Bike Share Dashboard](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/96ac56b0-b8cf-4987-bb54-581b7ea08eec)
