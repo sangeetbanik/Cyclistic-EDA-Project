@@ -42,7 +42,6 @@ for p in ax.patches:
     height = p.get_height()
     ax.text(p.get_x()+p.get_width()/2., height + 0.1,
             '{:1.0f}'.format(height), ha="center") 
- 
 plt.legend(title='User Type', title_fontsize='13', loc='upper right')
 
 plt.show()
@@ -51,7 +50,6 @@ plt.show()
 df['day_of_week'] = pd.Categorical(df['day_of_week'], categories=
     ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday', 'Sunday'],
     ordered=True)
-
 df_day_grouped = df.groupby("day_of_week").size().reset_index(name='count')
 print(df_day_grouped)
 
@@ -59,9 +57,6 @@ sns.countplot(x='day_of_week', hue='day_of_week', data=df, palette=sns.color_pal
 plt.title("Usage of cycle throughout the week", fontsize=15)
 plt.xlabel(" days of week ", fontsize=12)
 plt.ylabel("count", fontsize=12)
-
-
-
 ax = plt.gca()
 for p in ax.patches:
     height = p.get_height()
@@ -69,12 +64,11 @@ for p in ax.patches:
             '{:1.0f}'.format(height), ha="center") 
 
 plt.show()
-sns.countplot(x='day_of_week', hue='member_casual', data=df, palette=sns.color_palette("colorblind", 2))
 
+sns.countplot(x='day_of_week', hue='member_casual', data=df, palette=sns.color_palette("colorblind", 2))
 plt.title('Distribution of Rides by Day of the Week for Casual and Member Users', fontsize=15)
 plt.xlabel('Day of Week', fontsize=12)
 plt.ylabel('Count', fontsize=12)
-
 plt.legend(title='User Type', title_fontsize='13')
 
 plt.show()
@@ -97,4 +91,21 @@ plt.ylabel('Count',fontsize=12)
 plt.legend(title = 'User type', title_fontsize=13, loc = 'upper right')
 
 plt.show()
+
+#Weekly average ride length distrubtion
+filtered_rides = combined_csv[(combined_csv['ride_length'] > 1) & (combined_csv['ride_length'] < 1440)]
+mean_ride_length = filtered_rides.groupby(['member_casual', 'month'])['ride_length'].mean().reset_index()
+monthly_avg_pivot = mean_ride_length.pivot(index='month', columns='member_casual', values='ride_length')
+print(monthly_avg_pivot)
+
+monthly_avg_pivot.plot(kind='line', marker='o')
+plt.title('Average Ride Length per Month for Members and Casuals')
+plt.xlabel('Month')
+plt.ylabel('Average Ride Length (minutes)')
+plt.legend(title='User Type')
+plt.grid()
+plt.show()
+
+
+
 
