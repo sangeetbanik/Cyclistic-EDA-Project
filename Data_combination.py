@@ -1,0 +1,1 @@
+-- Combine data from Jan to Dec 2023 into a single table named cyclistic_data on Python
