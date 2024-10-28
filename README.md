@@ -88,7 +88,7 @@ The cleaned data is imported into Tableau for analysis and the figures plotted a
 ### - Total Rides in 2023
 The figure below shows the **total number of rides** carried out by Cyclistic members and casual riders in **2023**. 
 
-![Membership Types]()
+![Membership Types](https://github.com/sangeetbanik/sangeetbanik.github.io/pull/1/commits/e9e4938cb8b0e3a65997e648b57d34dc45af72d0#diff-57cdd9c72b3fe00cbea592df028ac8c9f865f4dcd5a6ed70f91dd6fdf9b9451e)
 - **Cyclistic members** recorded a **greater bicycle activity** than casual riders. The total rides for Cyclistic members are 3,655,271 while 2,047,607 trips for casual riders. 
 - **Cyclistic members** accounted for about **64.09%** of total rides whereas casual riders made up **35.91%** of total rides in 2023. 
 <br>
