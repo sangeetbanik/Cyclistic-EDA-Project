@@ -1,0 +1,7 @@
+-- deleting irrelevant columns
+-- creating new columns, named as 'ride_length','day_number','day_of_week' and 'month'
+
+Before starting the combination and analysis processes, I have checked all the 12 tables individually on Excel.
+
+Intially each table consist of 13 variables, as shown in the following:-
+
