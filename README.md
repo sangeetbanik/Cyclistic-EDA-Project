@@ -28,15 +28,17 @@ As a junior data analyst, my focus is on answering the first question: <b>How do
 [Note that the data has been made available by Motivate International Inc. under this [<ins>license</ins>](https://www.divvybikes.com/data-license-agreement).]
 
 **Tools:** <br>
-- Data cleaning & processing - Excel & Python.  
+- Data pre-processing - Excel.
+- Data cleaning & combining - Python.
+- Exploratory Data analysis - Python
 - Data visualization - [Tableau](https://public.tableau.com/app/profile/sangeet.banik/viz/CyclisticProject_17298545186540/Dashboard1)
 
 ### 3. Process
 The basis for this analysis is **2023** data and the steps for processing the data are as follow:
-1) [Data Combining]()
-2) [Data Exploration]()
-3) [Data Cleaning]()
-4) [Data Analysis]()
+1) [Data Pre-processing]()
+2) [Data combination]()
+3) [Data cleaning]()
+4) [Exploratory_Data Analysis]()
 
 #### Data Combining
 The 12 tables from **January 2023 to December 2023** were stacked and combined into a single table. The table consists of 5,719,877 rows.
