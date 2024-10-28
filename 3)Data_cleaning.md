@@ -1,4 +1,5 @@
 -- Determine the ride length in minutes 
+
 -- Remove rows with null values 
 
 # Get the brief summary of the new table
