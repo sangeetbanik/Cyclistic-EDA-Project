@@ -106,6 +106,19 @@ plt.legend(title='User Type')
 plt.grid()
 plt.show()
 
+#Monthly Average ride length distribution
+mean_ride_length = filtered_rides.groupby(['member_casual', 'month'])['ride_length'].mean().reset_index()
+monthly_avg_pivot = mean_ride_length.pivot(index='month', columns='member_casual', values='ride_length')
+print(monthly_avg_pivot)
+
+monthly_avg_pivot.plot(kind='line', marker='o')
+plt.title('Average Ride Length per Month for Members and Casuals')
+plt.xlabel('Month')
+plt.ylabel('Average Ride Length (minutes)')
+plt.legend(title='User Type')
+plt.grid()
+plt.show()
+
 
 
 
