@@ -88,8 +88,8 @@ The cleaned data is imported into Tableau for analysis and the figures plotted a
 ### - Total Rides in 2023
 The figure below shows the **total number of rides** carried out by Cyclistic members and casual riders in **2023**. 
 
-![Membership Types](![image](https://github.com/user-attachments/assets/98ac4c01-ab9d-4235-8e16-9ee566db8fb1)
-)
+![Membership Types](https://github.com/user-attachments/assets/75074177-ec8a-41f6-a268-771ce82230d8)
+
 - **Cyclistic members** recorded a **greater bicycle activity** than casual riders. The total rides for Cyclistic members are 3,655,271 while 2,047,607 trips for casual riders. 
 - **Cyclistic members** accounted for about **64.09%** of total rides whereas casual riders made up **35.91%** of total rides in 2023. 
 <br>
@@ -97,7 +97,10 @@ The figure below shows the **total number of rides** carried out by Cyclistic me
 ### - Types of Bikes
 The types of bicycles used for the trips are displayed as follow:
 
-![Types of Bikes]()
+![Types of Bikes](https://github.com/user-attachments/assets/ae114b65-47d0-4382-a7b8-b8b0ef7756d0)
+![Usage of bike](https://github.com/user-attachments/assets/85fb393c-4ba1-4643-8740-52e3675653c7)
+
+
 - There are **three types of bicycles**: <ins>*classic, electric and docked bikes*</ins>.
 - Cyclistic members and casual riders prefer show a higher preference for **classic bicycles over electric bicycles**.
 - Casual riders have also used the docked bicycles. 
@@ -106,14 +109,18 @@ The types of bicycles used for the trips are displayed as follow:
 ### - Average Ride Duration
 The average ride length is plotted against the type of users (member vs. casual):
 
-![Avg Ride Length (Year)]()
+![Avg Ride Length (Year)](https://github.com/user-attachments/assets/33fa19b3-1cee-48b4-bad1-0b95920e5e56)
+
+
 - **Cyclistic members** can ride on the bicycles for about **11.936 minutes** on average whereas **casual riders** have an average ride length of **20.079 minutes**. Hence, the ride duration of Cyclistic members are approximately two times smaller than casual riders.
 <br>
 
 ### - Trips Taken in a Month
 The preference of cycling activity can be determined by drawing the graph of trips taken against month from January to December 2023. 
 
-![Total Rides (Month)]()
+![Total Rides (Month)](https://github.com/user-attachments/assets/9885d609-25c9-483f-9b26-9c74a1b2b332)
+
+
 - The **lowest activity** observed for Cyclistic members was 147,279 rides in **February 2023** and for casual riders was 39,867 rides in **January 2023**.
 - **Cyclistic members** have the **highest activity** (459,640 rides) in **August 2023**.
 - **Casual riders** have the **highest activity** (329,363 rides) in **July 2023**.
@@ -122,7 +129,8 @@ The preference of cycling activity can be determined by drawing the graph of tri
 ### - Average Ride Length in a Month
 The mean trip duration is depicted in the line graph below. 
 
-![Avg  Ride Length (Month)]()
+![Avg  Ride Length (Month)](https://github.com/user-attachments/assets/0764018a-ecb7-4e46-ba8c-aa6d7d5bb3ff)
+
 - The monthly average ride duration for **Cyclistic members** is the **highest** in **July** (13.08 minutes).
 - For **casual riders**, the **highest** mean trip duration is in **July** (22.31 minutes).
 <br>
@@ -130,7 +138,8 @@ The mean trip duration is depicted in the line graph below.
 ### - Trips Taken in a Week
 The bar chart below is used to study the daily user activity over a week.
 
-![Total Rides (Week)]()
+![Total Rides (Week)](https://github.com/user-attachments/assets/af09497e-072d-4a97-8988-a81d6394b4ab)
+
 - Generally, bike rides are **most frequented** on **Saturdays**, with a total trips of 883,566 trips. 
 - **Cyclistic members** have the **highest activity** (588,795 rides) on **Thursdays** while the **lowest activity** (408,277 rides) on **Sundays**.
 - **Casual riders** have the **greatest activity** (407,880 rides) on **Saturdays** while the **least activity** (233,678 rides) on **Mondays**.
@@ -139,12 +148,14 @@ The bar chart below is used to study the daily user activity over a week.
 ### - Average Ride Length in a Week
 The mean ride duration across the week is displayed as follow.
 
-![Avg  Ride Length (Week)]()
+![Avg  Ride Length (Week)](https://github.com/user-attachments/assets/0ac09cba-19f6-4e97-8365-19f49ac59015)
+
 - **Cyclistic members** cycled the **longest on Sunday** with an average ride length of 13.31 minutes.
 - On the other hand, **casual riders cycled the longest on Sunday** with a mean trip duration of 23.50 minutes. 
 
 ### 5. Share
-![Cyclistic Bike Share Dashboard]()
+![Cyclistic Bike Share Dashboard](https://github.com/user-attachments/assets/db2ef862-536f-45c6-a01c-66ec93eeea68)
+
 View [Cyclistic Bike Share Dashboard](https://public.tableau.com/app/profile/sangeet.banik/viz/CyclisticProject_17298545186540/Dashboard1).
 
 The similiarities and differences between Cyclistic members and casual riders were drawn from the dashboard above.
