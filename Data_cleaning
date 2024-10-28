@@ -1,0 +1,7 @@
+-- Create the columns 'month and' 'day_of week' where 1 represents Sunday, 7 represents Monday 
+-- Determine the ride length in minutes 
+-- Remove rows with null values 
+-- Remove irrelevant columns
+
+# Removing irrelevant columns
+cyclistic_data = cyclistic_data.drop('')
