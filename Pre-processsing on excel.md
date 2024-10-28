@@ -40,6 +40,25 @@ I have deleted **9 variables** that are irrelevant to my objective of analysis:-
 
 And the created **4 new variables**, i.e. 'ride_length','day_number','day_of_week' and 'month', usig the following described formulas for each:-
 
+- ride_length  =((ended_at)-(started_at))
+- day_number   =WEEKDAY((started_at),1)
+- day_of_week  =TEXT((started_at),"dddd")
+- month        =TEXT((started_at),"mmmm")
+
+the final preview of all the 12 tables before combination and analysis stage, is as follow:- 
+| **No.**|  **Variable**       |  **Description**                                        |
+|--------|------------------   | --------------------------------------------------------|
+| 1      | rideable_type       | classic, docked, or electric                            |
+| 2      | started_at          | Date and time at the start of trip                      |
+| 3      | ended_at            | Date and time at the end of trip                        |
+| 4      | member_casual       | Type of membership of each rider                        | 
+| 5      | ride_length         | duration o each ride in minutes                         |
+| 6      | day_number          | indicates the number of the day; sunday=1 to saturday=7 |        |
+| 7      | day_of_week         | day on which the ride started                           |
+| 8      | month               | month of the ride                                       |
+
+
+
 
 
           
