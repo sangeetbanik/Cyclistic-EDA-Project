@@ -36,7 +36,7 @@ As a junior data analyst, my focus is on answering the first question: <b>How do
 ### 3. Process
 The basis for this analysis is **2023** data and the steps for processing the data are as follow:
 1) [Data Pre-processing](https://github.com/sangeetbanik/sangeetbanik.github.io/blob/main/1_Pre-processsing%20on%20excel.md)
-2) [Data combination](https://github.com/sangeetbanik/sangeetbanik.github.io/blob/main/2)Data_combination.py)
+2) [Data combination](https://github.com/sangeetbanik/sangeetbanik.github.io/blob/main/2_Data_combination.py)
 3) [Data cleaning]()
 4) [Exploratory_Data Analysis]()
 
