@@ -154,7 +154,8 @@ The mean ride duration across the week is displayed as follow.
 - On the other hand, **casual riders cycled the longest on Sunday** with a mean trip duration of 23.50 minutes. 
 
 ### 5. Share
-![Cyclistic Bike Share Dashboard](https://github.com/user-attachments/assets/db2ef862-536f-45c6-a01c-66ec93eeea68)
+![Cyclistic Bike Share Dashboard](https://github.com/user-attachments/assets/6a765359-d29f-41a5-bcd3-523086d5a967)
+
 
 View [Cyclistic Bike Share Dashboard](https://public.tableau.com/app/profile/sangeet.banik/viz/CyclisticProject_17298545186540/Dashboard1).
 
